@@ -7,7 +7,7 @@ fun main() {
     val numero = 6
     println("Valor inicial: $numero")
 
-    numero = 7
+   // numero = 7
 
     println("Valor após tentativa de alteração: $numero")
 }
